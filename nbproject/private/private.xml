@@ -5,6 +5,9 @@
         <group>
             <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/view/TelaPrincipal.java</file>
             <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/controller/MySQLAccess.java</file>
+            <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/model/CategoriaDAO.java</file>
+            <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/model/Categoria.java</file>
+            <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/controller/CategoriaDAOImp.java</file>
             <file>file:/Users/user/NetBeansProjects/Quiz/JavaApplication1/src/controller/PerguntasDAOImp.java</file>
         </group>
     </open-files>
